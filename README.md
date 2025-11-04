@@ -1,3 +1,5 @@
+![FPGA Image Processing](main_page_image.png "FPGA Image Processing")
+
 # FPGA-Based Image Processing Algorithms
 
 This repository contains FPGA implementations of common image processing algorithms developed in MATLAB & FPGA (SystemVerilog).  
@@ -8,6 +10,9 @@ Each project includes:
 
 ## Implemented Algorithms
 1. Bit Plane Extraction
-2. (Planned)
+2. Resize_image
+3. Point_transformations
 
 Each design is written in SystemVerilog and verified using behavioural simulation on Questasim.
+
+
