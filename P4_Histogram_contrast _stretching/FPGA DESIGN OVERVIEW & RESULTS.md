@@ -6,9 +6,9 @@
 ---
 
 ## FPGA RESULTS USING SYSTEMVERILOG
-* OriginalImage*
+### OriginalImage
 ![FPGA Results 1](images/Original_Image.png "SystemVerilog")
-*FPGA result*
+### FPGA result
 ![FPGA Results 2](images/fpga_result.png "SystemVerilog")
 
 ---
