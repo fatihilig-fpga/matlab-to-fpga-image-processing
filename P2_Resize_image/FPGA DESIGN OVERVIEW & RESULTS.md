@@ -1,13 +1,13 @@
-# 🖼️ Image Resize Module (SystemVerilog)
+# Image Resize Module (SystemVerilog)
 
-## 📘 Overview
+## Overview
 This project demonstrates an **image resizing module** written in **SystemVerilog**.  
 The design receives an image stream through a simple interface (`image_if`) 
 and produces a resized version of the image by **reducing its resolution** by a configurable factor.  
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 ├── hdl/image_if.sv        # Image interface definition
@@ -16,7 +16,7 @@ and produces a resized version of the image by **reducing its resolution** by a 
 
 ---
 
-## ⚙️ Files Description
+## Files Description
 
 ### **1. image_if.sv**
 A reusable interface that defines the signal structure for image data communication between modules.
@@ -72,7 +72,7 @@ image_resize #(
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Input Data Stream:**  
    Each incoming pixel is received on the `image_if_i` interface with `data_valid` asserted.
@@ -90,7 +90,7 @@ image_resize #(
 5. **Output Data Stream:**  
    The resized pixel stream is transmitted via `image_if_o`.
 
-## 🧩 Architecture
+##  Architecture
 ![Architecture Schematic](images/systemverilog_top.png "System Architecture")
 
 ---
@@ -99,7 +99,7 @@ image_resize #(
 ![FPGA Results](images/fpga_result.png "SystemVerilog")
 Images : 🔗 [Turkish Aerospace Industries](https://www.tusas.com/medya-merkezi/fotograf-galerisi)
 
-## 🧪 Simulation
+##  Simulation
 
 ### Requirements
 - ModelSim / QuestaSim / Vivado Simulator  
@@ -107,11 +107,11 @@ Images : 🔗 [Turkish Aerospace Industries](https://www.tusas.com/medya-merkezi
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 > - Fatih ILIG
-> - 📅 *Created on:* 30 October 2025  
+> - *Created on:* 30 October 2025  
 > - Senior FPGA Engineer
-> - 🔧 *Language:* SystemVerilog 
-> - 🏗️ *Category:* Image Processing / Hardware Design
-> - 📍 Rochester, Kent, UK
-> - 🔗 [LinkedIn](https://www.linkedin.com/in/fatih-ili%C4%9F-48775460/)
+> - *Language:* SystemVerilog 
+> - *Category:* Image Processing / Hardware Design
+> - Rochester, Kent, UK
+> - [LinkedIn](https://www.linkedin.com/in/fatih-ili%C4%9F-48775460/)

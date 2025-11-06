@@ -1,18 +1,17 @@
-# Point Transformations (SystemVerilog)
+# Histogram Contrast Stretching (SystemVerilog)
 
-##  Architecture
+## Architecture
 ![Architecture Schematic](images/systemverilog_top.png "System Architecture")
 
 ---
 
 ## FPGA RESULTS USING SYSTEMVERILOG
-![FPGA Results 1](images/fpga_result1.png "SystemVerilog")
-
-![FPGA Results 2](images/fpga_result2.png "SystemVerilog")
+* OriginalImage*
+![FPGA Results 1](images/Original_Image.png "SystemVerilog")
+*FPGA result*
+![FPGA Results 2](images/fpga_result.png "SystemVerilog")
 
 ---
-Images : 🔗 [Turkish Aerospace Industries](https://www.tusas.com/medya-merkezi/fotograf-galerisi)
-
 
 ### Requirements
 - ModelSim / QuestaSim / Vivado Simulator  
@@ -20,7 +19,7 @@ Images : 🔗 [Turkish Aerospace Industries](https://www.tusas.com/medya-merkezi
 
 ---
 
-##  Author
+## Author
 > - Fatih ILIG
 > - *Created on:* 04 November 2025  
 > - Senior FPGA Engineer

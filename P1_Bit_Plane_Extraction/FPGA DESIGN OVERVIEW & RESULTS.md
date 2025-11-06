@@ -1,7 +1,7 @@
 # The FPGA version using SystemVerilog.
 
 *🔹 Files (not published here for confidentiality)*
-## 🧩 File	Description
+## File	Description
 - image_if.sv 	: Defines the image stream interface (pixel bus, control, valid signals)
 
 - image_cls.sv	: Implements the bit-plane extraction logic in SystemVerilog
@@ -9,7 +9,7 @@
 
 ![SystemVerilog Top Level](images/systemVerilogTop.png "SystemVerilog Top Level")
 
-## 🧩 Architecture
+## Architecture
 ![Architecture Schematic](images/architecture_schematic_1.png "System Architecture")
 
 ✅ Each input pixel (8-bit grayscale) is streamed into the FPGA.
@@ -34,7 +34,7 @@ The design was simulated with behavioural models to verify:
 
 3. Comparison is made between MATLAB and FPGA outputs (byte-accurate).
 
-## 🧰 Tools Used
+## Tools Used
 
 - MATLAB — Algorithm reference & validation
 
@@ -52,5 +52,5 @@ The design was simulated with behavioural models to verify:
 **Author** 
 > - Fatih ILIG
 > - Senior FPGA Engineer
-> - 📍 Rochester, Kent, UK
-> - 🔗 [LinkedIn](https://www.linkedin.com/in/fatih-ili%C4%9F-48775460/)
+> - Rochester, Kent, UK
+> - [LinkedIn](https://www.linkedin.com/in/fatih-ili%C4%9F-48775460/)
