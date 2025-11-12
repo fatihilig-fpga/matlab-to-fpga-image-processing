@@ -6,6 +6,8 @@
 // It focuses solely on implementing the histogram algorithm for 
 // functional verification. However, it can be adapted for 
 // synthesis in future hardware implementations.
+//
+// Input Video Frame or Image reqs: 8 bits monochrome
 //------------------------------------------------------------
 import hist_pkg::*;
 

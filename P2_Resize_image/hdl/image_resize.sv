@@ -16,6 +16,7 @@
 //   clock delay, and outputs only the selected pixels that meet
 //   the resize condition.
 //
+//   Input Video Frame or Image reqs: 8 bits monochrome
 //------------------------------------------------------------
 module image_resize #(
 	parameter resize_option                = 2   ,

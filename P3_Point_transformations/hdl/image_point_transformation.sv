@@ -2,6 +2,8 @@
 // Project      : Image Processing - Point Transformation
 // Author       : Fatih ILIG
 // Created Date : 03 November 2025
+//
+// Input Video Frame or Image reqs: 8 bits monochrome
 //------------------------------------------------------------
 import image_point_transformation_pkg::*;
 import logarithm_lut_pkg::*;

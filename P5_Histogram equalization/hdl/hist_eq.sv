@@ -2,6 +2,8 @@
 // Project      : Image Processing - Histogram Equalization
 // Author       : Fatih ILIG
 // Created Date : 08 November 2025
+//
+// Input Video Frame or Image reqs: 8 bits monochrome
 //------------------------------------------------------------
 import hist_eq_pkg::*;
 
