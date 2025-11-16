@@ -27,6 +27,9 @@ Median Filter
 
 ---
 
+Images : 🔗 [Turkish Aerospace Industries](https://www.tusas.com/medya-merkezi/fotograf-galerisi)
+Images : 🔗 [BAYKAR](https://baykartech.com/tr/fotograf-galerisi/)
+
 ## FPGA RESULTS USING SYSTEMVERILOG
 
 ### FPGA result 1
@@ -61,3 +64,8 @@ Median Filter
 > - *Category:* Image Processing / Hardware Design
 > - Rochester, Kent, UK
 > - [LinkedIn](https://www.linkedin.com/in/fatih-ili%C4%9F-48775460/)
+
+
+
+
+
